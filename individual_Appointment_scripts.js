@@ -40,13 +40,13 @@
             //########################################################################
             //############### THIS IS THE PART YOU MUST CHANGE #######################
             //########################################################################
-            var lastNames ="Last Name";
-            var firstNames ="First Name";
-            var births ="yyyy-mm-dd";//Date Of Birth
-            var passNumbers ="Passport Number";//Passport Number
-            var issueDates ="yyyy-mm-dd";//Passport Issue Date
-            var expiryDates ="yyyy-mm-dd";//Passport Expiry Date
-            var pptissuePalaces ="city name";//Passport Issue Place
+            var lastNames ="Atmani";
+            var firstNames ="Hicham";
+            var births ="1992-09-14";//Date Of Birth
+            var passNumbers ="LS1287859";//Passport Number
+            var issueDates ="2022-07-13";//Passport Issue Date
+            var expiryDates ="2027-07-13";//Passport Expiry Date
+            var pptissuePalaces ="NADOR";//Passport Issue Place
             var franN ="TG700******";
             //########################################################################
             //########################################################################
